@@ -1,4 +1,4 @@
-package com.hachkerrank.challenges;
+package com.hackerrank.challenges;
 
 public class MagicSquare {
 

@@ -1,4 +1,4 @@
-package com.hachkerrank.array.interview_preparation_kit.warnup;
+package com.hackerrank.array.interview_preparation_kit.warnup;
 import java.util.ArrayList;
 import java.util.List;
 

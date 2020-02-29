@@ -1,5 +1,5 @@
 
-package com.hachkerrank.interview_preparation_kit.arrays;
+package com.hackerrank.interview_preparation_kit.arrays;
 
 /**
  * 

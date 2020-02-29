@@ -1,4 +1,4 @@
-package com.hachkerrank.challenges;
+package com.hackerrank.challenges;
 
 /**
  * https://www.hackerrank.com/challenges/string-similarity/problem

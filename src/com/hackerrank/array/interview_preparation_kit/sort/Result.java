@@ -1,4 +1,4 @@
-package com.hachkerrank.array.interview_preparation_kit.sort;
+package com.hackerrank.array.interview_preparation_kit.sort;
 
 import java.util.ArrayList;
 import java.util.Collections;
